@@ -1,7 +1,7 @@
 public class Main{
 public static void main(Strings[]args)
 {System.out.println("Hello my name is anna joseph.");
-System.out.println(" I love to explore the  programming world,but ");
+System.out.println(" I love to explore the  programming world. ");
 System.out.println("Iam a second year ece student at NIT CALICUT");
 System.out.println("My hobbies are listening music and reading webcomics");
 }
